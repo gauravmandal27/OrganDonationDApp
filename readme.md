@@ -2,7 +2,9 @@
 
 ## Self Introduction
 Hi! My name is Sindhu and I have contributed for the creation of Smart Contract generation using solidity.
+
 Hi! My name is Vangmai and I have contributed for the creation of Forntend part using pyhon.
+
 Hi! My name is Gaurav and I have contributed for the creation of Blockchain Server generation and Storage in Etherium.
 
 ## Project Description
